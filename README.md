@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS, Front-end programming
 - 📫 How to reach me ferdefreitasribas@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can bend my finger
+- ⚡ Fun fact: I can bend my finger backward
 
 <!---
 ferdefreitas/ferdefreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
